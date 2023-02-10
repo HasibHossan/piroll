@@ -1,0 +1,14 @@
+blue #10c9c3
+grey #f5f5f5
+
+
+font 
+ nav monsirat 500
+ banner 
+        h1 monsirat 500
+        p  nunito sans 400 
+        button monsirat 500 
+
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
