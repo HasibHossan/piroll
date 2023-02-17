@@ -126,9 +126,12 @@ header{
     height: 100%;
 }
 
-progress{
+.progress{
     width: 100%;
-    height: 10px;
+    height: 5px;
+}
+.progress-bar{
+    background-color: #10c9c3;
 }
 /* pro skills end  */
 /* details start  */
@@ -138,6 +141,7 @@ progress{
 
 
 }
+
 .c-details{
     padding: 100px 0px
 }
@@ -250,7 +254,7 @@ progress{
 }
 
 i{
-    font-size: 35px;
+    font-size: 45px;
     transition: .3s;
 }
 .feature i:hover{
